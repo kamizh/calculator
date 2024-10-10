@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="1000dp" /> <!-- Здесь устанавливается большое значение для создания круглой формы -->
+    <solid android:color="#DF8713" />
+</shape>
